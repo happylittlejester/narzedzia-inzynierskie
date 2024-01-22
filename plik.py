@@ -1,5 +1,5 @@
-a = 5
-b = 2
+a = int(input("Podaj liczbe: "))
+b = int(input("Podaj druga liczbe: "))
 
 suma = a + b
 
